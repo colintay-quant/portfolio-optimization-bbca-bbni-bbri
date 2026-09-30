@@ -13,6 +13,7 @@ The Markowitz Mean Variance Optimization Idenntified the following optimal portf
 - **BBCA: 75.9%**
 - **BBNI: 23.89%**
 - **BBRI: 0.14%**
+
 This results makes sense because BBCA has the lowest volatility among three stocks (24.94%), while still maintaining a competitive return (11.93%) - Nearly matching BBRI's slightlyhigher return (12.20%), which comes with much higher volatility (32.52%). This gives BBCA a better individual risk-return (Sharpe) ratio, justifying its dominant weight in the optimal portfolio.
 BBNI receives a smaller allocation, likely acting a diversifier despite having the lowest return (9.41%) and highhest volatility.
 **Note**: These results are spesific to this combination of stocks and the 2019-2025 data period. All three stocks belong to the same sector (banking), so sector diversification is still limitited. A natural extension would be adding stocks from other sectors.
